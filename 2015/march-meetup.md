@@ -9,7 +9,6 @@ March meetup agenda
 
 
 # UnConfirmed talks
-
   - Measured Availability using NewRelic RUM - Sanjay Singh
   - (Voldemort)[http://www.project-voldemort.com/voldemort/]
   - (Helix)[http://data.linkedin.com/opensource/helix]
