@@ -3,7 +3,7 @@ March meetup agenda
 
 ## Date: March 28th 2015
 
-## Venue: TBD
+## Venue: Linkedin
 
 ## Confirmed talks
 
