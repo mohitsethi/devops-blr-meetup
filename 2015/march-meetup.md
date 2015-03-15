@@ -9,7 +9,7 @@ March meetup agenda
 
 
 ## UnConfirmed talks
-  - Site Reliability Engineering at Linkedin - Shahnawaz Saifi
+  - Site Reliability Engineering at Linkedin - Shahnawaz Saifi - Linkedin
   - Measured Availability using NewRelic RUM - Sanjay Singh, Group Engineering Manager at Intuit
   - Databus, A low latency change capture system from Linkedin  -  Maheswaran Veluchamy , Lead Site Reliability Engineer            LinkedIn
     - Databus is a low latency change captures system, which has become an integral part of LinkedIn’s data processing pipeline. It addresses a fundamental requirement to reliably capture, flow and processes primary data changes.  Look at https://github.com/linkedin/databus/wiki and https://github.com/linkedin/databus for more detail 
